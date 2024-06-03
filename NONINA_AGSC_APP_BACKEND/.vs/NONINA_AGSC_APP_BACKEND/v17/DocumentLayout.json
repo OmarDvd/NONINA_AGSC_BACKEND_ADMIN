@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F147B6E-406F-43D7-87FD-2B37A615DF01}|NONINA_AGSC_APP_BACKEND.csproj|c:\\users\\omar\\source\\repos\\nonina_agsc_app_backend\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F147B6E-406F-43D7-87FD-2B37A615DF01}|NONINA_AGSC_APP_BACKEND.csproj|solutionrelative:controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F147B6E-406F-43D7-87FD-2B37A615DF01}|NONINA_AGSC_APP_BACKEND.csproj|c:\\users\\omar\\source\\repos\\nonina_agsc_app_backend\\views\\messages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F147B6E-406F-43D7-87FD-2B37A615DF01}|NONINA_AGSC_APP_BACKEND.csproj|solutionrelative:views\\messages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FDF8E-1855-4CB9-8154-9B97DE3E0C5D}|..\\NONINA_AGSC_APP_BACKEND_API\\NONINA_AGSC_APP_BACKEND_API.csproj|c:\\users\\omar\\source\\repos\\nonina_agsc_app_backend_api\\controllers\\autenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F147B6E-406F-43D7-87FD-2B37A615DF01}|NONINA_AGSC_APP_BACKEND.csproj|c:\\users\\omar\\source\\repos\\nonina_agsc_app_backend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F147B6E-406F-43D7-87FD-2B37A615DF01}|NONINA_AGSC_APP_BACKEND.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FDF8E-1855-4CB9-8154-9B97DE3E0C5D}|..\\NONINA_AGSC_APP_BACKEND_API\\NONINA_AGSC_APP_BACKEND_API.csproj|c:\\users\\omar\\source\\repos\\nonina_agsc_app_backend_api\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FDF8E-1855-4CB9-8154-9B97DE3E0C5D}|..\\NONINA_AGSC_APP_BACKEND_API\\NONINA_AGSC_APP_BACKEND_API.csproj|c:\\users\\omar\\source\\repos\\nonina_agsc_app_backend_api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FDF8E-1855-4CB9-8154-9B97DE3E0C5D}|..\\NONINA_AGSC_APP_BACKEND_API\\NONINA_AGSC_APP_BACKEND_API.csproj|c:\\users\\omar\\source\\repos\\nonina_agsc_app_backend_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FDF8E-1855-4CB9-8154-9B97DE3E0C5D}|..\\NONINA_AGSC_APP_BACKEND_API\\NONINA_AGSC_APP_BACKEND_API.csproj|c:\\users\\omar\\source\\repos\\nonina_agsc_app_backend_api\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FDF8E-1855-4CB9-8154-9B97DE3E0C5D}|..\\NONINA_AGSC_APP_BACKEND_API\\NONINA_AGSC_APP_BACKEND_API.csproj|c:\\users\\omar\\source\\repos\\nonina_agsc_app_backend_api\\models\\adduserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FDF8E-1855-4CB9-8154-9B97DE3E0C5D}|..\\NONINA_AGSC_APP_BACKEND_API\\NONINA_AGSC_APP_BACKEND_API.csproj|c:\\users\\omar\\source\\repos\\nonina_agsc_app_backend_api\\models\\addagendarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FDF8E-1855-4CB9-8154-9B97DE3E0C5D}|..\\NONINA_AGSC_APP_BACKEND_API\\NONINA_AGSC_APP_BACKEND_API.csproj|c:\\users\\omar\\source\\repos\\nonina_agsc_app_backend_api\\controllers\\agendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "Controllers\\MessagesController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:10:04.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND\\Views\\Messages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Messages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND\\Views\\Messages\\Index.cshtml",
+              "RelativeToolTip": "Views\\Messages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T20:09:58.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T19:46:35.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND_API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\NONINA_AGSC_APP_BACKEND_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND_API\\Program.cs",
+              "RelativeToolTip": "..\\NONINA_AGSC_APP_BACKEND_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:22:53.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND_API\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "..\\NONINA_AGSC_APP_BACKEND_API\\Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND_API\\Models\\Evento.cs",
+              "RelativeToolTip": "..\\NONINA_AGSC_APP_BACKEND_API\\Models\\Evento.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:54:14.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventosController.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND_API\\Controllers\\EventosController.cs",
+              "RelativeDocumentMoniker": "..\\NONINA_AGSC_APP_BACKEND_API\\Controllers\\EventosController.cs",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND_API\\Controllers\\EventosController.cs",
+              "RelativeToolTip": "..\\NONINA_AGSC_APP_BACKEND_API\\Controllers\\EventosController.cs",
+              "ViewState": "AQIAALwBAAAAAAAAAAAIwL0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:21:39.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND_API\\Controllers\\AutenticationController.cs",
+              "RelativeDocumentMoniker": "..\\NONINA_AGSC_APP_BACKEND_API\\Controllers\\AutenticationController.cs",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND_API\\Controllers\\AutenticationController.cs",
+              "RelativeToolTip": "..\\NONINA_AGSC_APP_BACKEND_API\\Controllers\\AutenticationController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:29:00.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddAgendaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND_API\\Models\\AddAgendaRequest.cs",
+              "RelativeDocumentMoniker": "..\\NONINA_AGSC_APP_BACKEND_API\\Models\\AddAgendaRequest.cs",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND_API\\Models\\AddAgendaRequest.cs",
+              "RelativeToolTip": "..\\NONINA_AGSC_APP_BACKEND_API\\Models\\AddAgendaRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:53:35.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND_API\\Models\\AddUserRequest.cs",
+              "RelativeDocumentMoniker": "..\\NONINA_AGSC_APP_BACKEND_API\\Models\\AddUserRequest.cs",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND_API\\Models\\AddUserRequest.cs",
+              "RelativeToolTip": "..\\NONINA_AGSC_APP_BACKEND_API\\Models\\AddUserRequest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:43:52.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND_API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "..\\NONINA_AGSC_APP_BACKEND_API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND_API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "..\\NONINA_AGSC_APP_BACKEND_API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:20:38.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AgendasController.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND_API\\Controllers\\AgendasController.cs",
+              "RelativeDocumentMoniker": "..\\NONINA_AGSC_APP_BACKEND_API\\Controllers\\AgendasController.cs",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND_API\\Controllers\\AgendasController.cs",
+              "RelativeToolTip": "..\\NONINA_AGSC_APP_BACKEND_API\\Controllers\\AgendasController.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAowGEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:57:06.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
